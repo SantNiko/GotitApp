@@ -3,7 +3,8 @@ class Main extends CI_Controller {
     
         public function index()
         {
-                $this->load->view('main/landpage');
+            
+                //$this->load->view('main/landpage');
         }
         public function showLandPage()
         {
@@ -11,8 +12,10 @@ class Main extends CI_Controller {
         }
         
         public function showLogin()
-        {
-                $this->load->view('main/login');
+        {       
+                $this->load->helper('url');
+                $this->load->template('main/login');
+                //$this->load->view('main/login');
         }
         
         
