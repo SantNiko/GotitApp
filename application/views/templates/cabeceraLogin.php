@@ -8,7 +8,7 @@
     <title>GotaFria</title>
 
     <!-- Bootstrap -->
-    <link href="libraries/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="application/libraries/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   </head>
   <body>
 

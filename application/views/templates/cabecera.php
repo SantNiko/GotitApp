@@ -8,7 +8,7 @@
         <title>GotaFria</title>
 
         <!-- Bootstrap -->
-        <link href="<?php echo base_url("assets/lib/bootstrap/css/bootstrap.min.css")?>" rel="stylesheet">
+        <link href="<?php echo base_url("application/assets/lib/bootstrap/css/bootstrap.min.css")?>" rel="stylesheet">
     </head>
     <body>
 

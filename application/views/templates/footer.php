@@ -7,8 +7,8 @@
 
 </div><!-- /.container -->
 
-<script src="<?php echo base_url("assets/lib/jquery.slim.min.js")?>"></script>
-<script src="<?php echo base_url("assets/lib/bootstrap/js/bootstrap.min.js")?>"></script>
+<script src="<?php echo base_url("application/assets/lib/jquery.slim.min.js")?>"></script>
+<script src="<?php echo base_url("application/assets/lib/bootstrap/js/bootstrap.min.js")?>"></script>
 </body>
 </html>
 
